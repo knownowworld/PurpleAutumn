@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499286841639",
+    "firebase_url": "https://purpleautumn-fb925.firebaseio.com",
+    "project_id": "purpleautumn-fb925",
+    "storage_bucket": "purpleautumn-fb925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499286841639:android:8b515d89d8ef6e86",
+        "android_client_info": {
+          "package_name": "com.example.rohansingh.purpleautumn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499286841639-rvsuur4q1l5ao0u8megcl0c4f2beuuao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohansingh.purpleautumn",
+            "certificate_hash": "0248071f60f5a5011e56389ed95f236a8f82dd11"
+          }
+        },
+        {
+          "client_id": "499286841639-0gn5p2qf6lni0idmcumjp6f10vmrc0ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxIZAs0-SHAP2G2lGP1_fOyK38JzLNw0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499286841639-0gn5p2qf6lni0idmcumjp6f10vmrc0ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

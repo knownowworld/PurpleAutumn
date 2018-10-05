@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/profileicon"
+        android:title=""
+        android:icon="@drawable/loginicon"/>
+    <item android:id="@+id/searchicon"
+        android:title="find"
+        android:icon="@drawable/iconsearch"/>
+
+    <item android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/iconlogout"/>
+</menu>

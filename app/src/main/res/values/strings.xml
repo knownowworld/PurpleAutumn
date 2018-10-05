@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PurpleAutumn</string>
+    <string name="title_activity_log_in_sign_up">LogInSignUPActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="logIn">LOG IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+</resources>
